@@ -5,6 +5,8 @@ Unlocks password protected LabVIEW VIs
 
 *Note: This does not support VI's in LLB's, copy the VI out of the LLB first.*
 
+Refer to [Tools > VI-Hacker...](/builds/project/README.md) for instructions add this library as a Tools menu addon.
+
 ## Getting Started
 
 Open the `/src/Demo.vi`, enter a password protected VI Path (*that's not in an llb*).
