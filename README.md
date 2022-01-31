@@ -119,7 +119,8 @@ This library maintains the raw VI binary content and create a metadata lookup ta
 
 ### Credit
 
-[VI-Explorer-VI](https://github.com/tomsoftware/VI-Explorer-VI) - Salt cracking [LICENSE](/docs/vi-exploer-vi_license.txt]
-[ZLib](https://www.zlib.net/) - Uncompress block diagram heap [LICENSE](/docs/zlib_license.txt]
+[VI-Explorer-VI](https://github.com/tomsoftware/VI-Explorer-VI) - Salt cracking [LICENSE](/docs/vi-exploer-vi_license.txt)
+
+[ZLib](https://www.zlib.net/) - Uncompress block diagram heap [LICENSE](/docs/zlib_license.txt)
 
 For more information on VI file format, check out my other post: [VI File Format](https://ryanpacini.com/posts/vifileformat/)
