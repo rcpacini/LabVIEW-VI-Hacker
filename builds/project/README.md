@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-Copy `VI-Hacker.vi` file and `_VI-Hacker` directory to `<LabVIEW>\\project`
+Copy `VI-Hacker.vi` file and `_VI-Hacker` directory to `<LabVIEW>\project`
 
-This adds a tool menu: `Tools > VI-Hacker`
+This adds a tool menu: `Tools > VI-Hacker...`
 
 ## Usage
 
